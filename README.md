@@ -1,6 +1,6 @@
 Hello, my name is Christian. I am a builder who is deeply interested in understanding the world through technology. I enjoy backend infra and find B2C apps fascinating. My current day job is a SWE at Microsoft where I work on backend-infra for office.
 
-The current question I am trying to answer is, will people interface with and value Voice AI agents for personal use cases. Currently building [Always Answer](https://always-answer.com/) and [MENTLAI](https://mentl-webpage.vercel.app) - two different takes on this idea (Note I have been grinding the iOS apps, so these webpages are quite out of date will update soon).
+The current question I am trying to answer is, will people interface with and value Voice AI agents for personal use cases. Currently building [Always Answer](https://always-answer.com/) and [MENTLAI](https://mentl-webpage.vercel.app) - two different takes on this idea (Note I have been grinding the iOS apps, so these webpages are quite out of date/demo may be down, will update soon).
 
 Aside from building, I love to read and write. I currently write for Contrary Research. Banger startup memos dropping soon. I also yap medium format about startups and VC on my [Twitter](https://x.com/okokthere) daily, u should check it out.
 
